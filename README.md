@@ -1,2 +1,2 @@
 # Distributed-Systems
-Assignments for Distributed Systems Cours
+Assignments for Distributed Systems Course
